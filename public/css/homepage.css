@@ -1,0 +1,126 @@
+body{
+	font-family: 'Nudi', sans-serif;
+  font-size: 18px;
+}
+.english{
+  font-family: 'Raleway', sans-serif;
+}
+.sanskrit{
+  font-family: 'Halant', sans-serif;
+  font-size: 16px;
+}
+a {
+  color: #1565C0;
+}
+a:hover{
+  text-decoration: none;
+}
+
+.flat-page, .dynamic-page{
+    margin-top: 150px;
+    color: #222;
+}
+.booksCollection{
+    padding: 10px;
+    text-align: center;
+}
+.booksCollection img{
+    padding: 8px;
+    height: 400px;
+    box-shadow: 0 1px 15px rgba(0,0,0,0.5);
+    border-radius: 5px;
+}
+.title{
+  font-size: 20px;
+}
+iframe{
+  width: 100%;
+  min-height: 550px;
+  border: none;
+}
+@media(min-width:768px) {
+    .flat-page, .dynamic-page{
+        margin-top: 100px;
+    }
+    .dedication h2, .author h2{
+        text-align: left;
+    }
+    .about-tabs.nav-tabs .nav-link.active,
+    .about-tabs.nav-tabs .nav-link:focus,
+    .about-tabs.nav-tabs .nav-link:hover {
+        /*border-bottom: 1px solid #ddd;*/
+    }
+    .about-content .tab-pane .prelims{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .booksCollection img{
+        padding: 5px;
+        height: 300px;
+        box-shadow: 0 1px 15px rgba(0,0,0,0.5);
+    }
+    .card-title {
+        font-size: 18px;
+        line-height: 25px;
+        text-align: center;
+    }
+    .awards img{
+      margin: 0px;
+      height: 220px;
+    }
+    .paperClippings img{
+      margin: 0px;
+      height: 220px;
+    }
+}
+
+/*Scroll down*/
+
+a.scrollMore {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  z-index: 2;
+  display: inline-block;
+  -webkit-transform: translate(-50%, 0);
+  transform: translate(-50%, 0);
+  color: #fff;
+  font : normal 400 20px/1 'Josefin Sans', sans-serif;
+  letter-spacing: .1em;
+  text-decoration: none;
+  transition: opacity .3s;
+  cursor: pointer;
+}
+a.scrollMore:hover {
+  opacity: .5;
+}
+
+a.scrollMore {
+  padding-top: 70px;
+}
+@-webkit-keyframes sdb05 {
+  0% {
+    -webkit-transform: rotate(-45deg) translate(0, 0);
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    -webkit-transform: rotate(-45deg) translate(-20px, 20px);
+    opacity: 0;
+  }
+}
+@keyframes sdb05 {
+  0% {
+    transform: rotate(-45deg) translate(0, 0);
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    transform: rotate(-45deg) translate(-20px, 20px);
+    opacity: 0;
+  }
+}
