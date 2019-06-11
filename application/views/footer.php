@@ -1,7 +1,7 @@
     <div class="container footer"><!-- container -->
         <div class="row justify-content-center"><!-- row -->
             <div class="col-md-12 text-center">
-                <p><small>© ೨೦೧೯ - ಶ್ರೀರಂಗ ಡಿಜಿಟಲ್ ಸಾಫ್ಟ್ವೇರ್ ಟೆಕ್ನಾಲಜೀಸ್ ಪ್ರೈವೇಟ್ ಲಿಮಿಟೆಡ್</small></p>
+                <p><small>© 2019 - Sriranga Digital Software Technologies. Pvt. Ltd.</small></p>
             </div>
         </div>
     </div>

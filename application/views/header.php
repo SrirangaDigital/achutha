@@ -9,7 +9,7 @@
     <!-- Basic Page Needs
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta charset="utf-8">
-    <title><?php if($pageTitle) echo $pageTitle . ' | '; ?>ಉದಯಭಾನು</title>
+    <title><?php if($pageTitle) echo $pageTitle . ' | '; ?>Charted Accountant</title>
     <meta name="description" content="">
     <meta name="author" content="">
 
@@ -51,16 +51,14 @@
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <nav id="mainNavBar" class="navbar navbar-light navbar-expand-lg fixed-top">
         <div class="container-fluid clear-paddings">
-            <a class="navbar-brand" href="<?=BASE_URL?>"><img src="<?=PUBLIC_URL?>images/udayabhanu.jpg" alt="Logo" class="logo"></a>
-            <p class="navbar-text" id="navbarText">ಉದಯಭಾನು</p>
+            <a class="navbar-brand" href="<?=BASE_URL?>"><img src="<?=PUBLIC_URL?>images/logo.jpg" alt="Logo" class="logo"></a>
+            <p class="navbar-text" id="navbarText">Achutha &amp; Co.,</p>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav nav ml-auto">
-<?php if($viewHelper->isLoggedIn()) { ?>
-                    <li><a href="<?=BASE_URL?>user/logout"><span class="english">Logout</span></a></li>
-<?php } else {?>
-                    <li><a href="<?=BASE_URL?>user/login"><span class="english">Login</span></a></li>
-<?php } ?>
+                    <li><a href="<?=BASE_URL?>">About</a></li>
+                    <li><a href="javascript:void();">|</a></li>
+                    <li><a href="<?=BASE_URL?>">Contact</a></li>
                 </ul>
             </div>
         </div>
