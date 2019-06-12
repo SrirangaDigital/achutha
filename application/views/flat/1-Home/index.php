@@ -56,7 +56,7 @@
 		</div>
 		<div class="col-md-7">
 			<h5 class="text-center">Google Map</h5>
-			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d974.5574370542041!2d76.66427896044941!3d12.300309038233612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTLCsDE4JzAxLjkiTiA3NsKwMzknNTMuNSJF!5e0!3m2!1sen!2sin!4v1560251907483!5m2!1sen!2sin" width="650" height="450" frameborder="0" style="border: 0" allowfullscreen></iframe>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d974.5591357557417!2d76.66485382919717!3d12.299850999456195!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTLCsDE3JzU5LjUiTiA3NsKwMzknNTUuNCJF!5e0!3m2!1sen!2sin!4v1560334601821!5m2!1sen!2sin" width="650" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 		</div>
 	</div>
 </div>
