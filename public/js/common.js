@@ -2,6 +2,7 @@ var vieweroptions = { url: 'data-original' };
 
 if(document.getElementById('viewimages')){
     var viewer = new Viewer(document.getElementById('viewimages'), vieweroptions);
+    console.log(viewer);
 }
 
 $(document).ready(function() {
@@ -17,7 +18,6 @@ $(document).ready(function() {
     $('.nav-href').on('click', function(event){
 
         var url = $(location).attr('href');
-        console.log('suresh');
         if(url.indexOf('#') != -1){
 
             var hash = url.substr(url.indexOf('#') - url.length, url.indexOf('#'));
