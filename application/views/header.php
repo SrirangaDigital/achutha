@@ -36,6 +36,7 @@
     <!-- Favicon
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <link rel="icon" type="image/png" href="<?=PUBLIC_URL?>images/logo.png">
+    <meta name="google-site-verification" content="BW8MXRERtJ_VqrqboqQu-Ni9OUGZ2V-Q8vjm0f6bhio" />
 </head>
 <body>
 
