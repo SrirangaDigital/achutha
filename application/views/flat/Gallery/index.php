@@ -347,12 +347,11 @@
 				<!-- <figcaption></figcaption> -->
 			</figure>
 		</div>
-		<div class="col-md-3 text-center photosCollection">
+		<!-- <div class="col-md-3 text-center photosCollection">
 			<figure>
 				<img class="img-fluid" data-original="<?=IMAGE_URL?>gallery/main/057.jpg" src="<?=IMAGE_URL?>gallery/thumbs/057.jpg" alt="Images" />
-				<!-- <figcaption></figcaption> -->
 			</figure>
-		</div>
+		</div> -->
 		<div class="col-md-3 text-center photosCollection">
 			<figure>
 				<img class="img-fluid" data-original="<?=IMAGE_URL?>gallery/main/058.jpg" src="<?=IMAGE_URL?>gallery/thumbs/058.jpg" alt="Images" />

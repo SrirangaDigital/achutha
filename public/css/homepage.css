@@ -8,7 +8,9 @@ a {
 a:hover{
   text-decoration: none;
 }
-
+.numbers{
+  font-family: 'Roboto', sans-serif;
+}
 .flat-page, .dynamic-page{
     margin-top: 75px;
     color: #222;

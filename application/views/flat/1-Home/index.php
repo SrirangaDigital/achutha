@@ -8,14 +8,14 @@
 		</div>
 		<div class="col-md-9 small-about">
 			<p>Audit of Insurance Companies, Stock Exchanges, Exploration & Processing, Manufacturing Companies, Engineering Units, Infrastructure, Information Technology, Local Government & Municipalities, Petroleum & Gas, Educational Institutions, Health, NGO's, Programme Evaluation (International Donor-funded Projects)Advertising, Real Estate, Milk Producers Co-op. Societies, Honey Processing Co-op. Societies, Credit Co-op. So., Souharda Co-op. Societies & Financial Institutions.</p>
-			<p>Specialization in Concurrent, Statutory, Revenue leakage & Stock Audit of various Banks. Having more than two and a ha! decades of experience in Bank Audits.</p>
-			<p>Apart from this, The firm has undertaken a lot of tax assignments concerning Individuals, HUF's, Partnership Firms, LLP's, Corporate Assessees, NRI's etc., with respect to Income Tax, VAT, Service Tax etc., <a href="<?=PUBLIC_URL?>pdf/firm.pdf" target="_blank">Firm</a></p>
+			<p>Specialization in Concurrent, Statutory, Revenue leakage & Stock Audit of various Banks. Having almost three decades of experience in Bank Audits.</p>
+			<p>Apart from this, The firm has undertaken a lot of tax assignments concerning Individuals, HUF's, Partnership Firms, LLP's, Corporate Assessees, NRI's etc., with respect to Income Tax, VAT, Service Tax, GST etc.,<br /><span class="text-center"><a href="<?=PUBLIC_URL?>pdf/firm.pdf" target="_blank">Firm</a></span></p>
 		</div>
 	</div>
 	<div class="row pt-5 justify-content-center">
 		<div class="col-md-12"><h4>Introduction about CA. S. Achutha</h4><hr /></div>
 		<div class="col-md-12 small-about">
-			<p>S. ACHUTHA is a Chartered Accountant. He is practicing as a fellow member of The Institute of Chartered Accountants of India under the trade name M/s Achutha & Co., at No.286, ‘Phalaamrutha’, New layout, Ittigegud, Mysore - 570010. He is a visiting faculty at various forums to deliver lectures on Budget, Service Tax, VAT, Income Tax, Bank Audit, Personality Development and Leadership Skills.</p>
+			<p>S. ACHUTHA is a Chartered Accountant. He is practicing as a fellow member of The Institute of Chartered Accountants of India under the trade name Achutha & Co., at No. <span class="numbers">286</span>, ‘Phalaamrutha’, New layout, Ittigegud, Mysore - <span class="numbers">570010</span>. He is a visiting faculty at various forums to deliver lectures on Budget, Service Tax, VAT, Income Tax, Bank Audit, Personality Development and Leadership Skills.</p>
 			<p>Achutha  is happily married to Mrs. M.N.Anitha, she has a Master’s degree in Tourism Management and he is blessed with a son Late  Dayanand Sagar Hoysala & a daughter Kum. Gowri A. Hoysala an enthusiast in agriculture, wild life & forestry.</p>
 			<p>Achutha played many roles in many Asscoiations, he is good at Studies, Athletics, Sports and many more. For more information click read more</p>
 			<p class="text-right more"><a href="<?=BASE_URL?>About"><i>Read more...</i></a></p>
@@ -45,14 +45,14 @@
 		<div class="col-md-12 mb-4" id="contact"><h4>Contact</h4><hr /></div>
 		<div class="col-md-5">
 			<h5>Address</h5>
-			#286, “Phalaamrutha”, New Layout,<br />
+			#<span class="numbers">286</span>, “Phalaamrutha”, New Layout,<br />
 			Ittigegud, Mysuru<br />
-			Pincode: 570010<br />
-			Mobile: 9448042966<br />
+			Pincode: <span class="numbers">570010</span><br />
+			Mobile: <span class="numbers">9448042966</span><br />
 			Landline:<br />
-			0821 - 2429664 (O) | 0821 - 2523572 (R)<br />
+			<span class="numbers">0821 - 2429664</span> (O) | <span class="numbers">0821 - 2523572</span> (R)<br />
 			Email:<br />
-			sachutha@dataone.in | achuthaca@gmail.com
+			achuthaca@gmail.com | sachutha@dataone.in
 		</div>
 		<div class="col-md-7">
 			<h5 class="text-center">Google Map</h5>

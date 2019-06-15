@@ -24,13 +24,14 @@
     <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/viewer.css?v=1.2">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/navbar.css?v=1.2">
-    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/homepage.css?v=1.3">
+    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/homepage.css?v=1.4">
     <script type="text/javascript" src="<?=PUBLIC_URL?>js/viewer.js?v=1.2"></script>
     
     <!-- Fonts
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <link href="https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300&display=swap" rel="stylesheet">
     
     <!-- Favicon
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
