@@ -16,7 +16,7 @@
 		<div class="col-md-12"><h4>Introduction about CA. S. Achutha</h4><hr /></div>
 		<div class="col-md-12 small-about">
 			<p>S. ACHUTHA is a Chartered Accountant. He is practicing as a fellow member of The Institute of Chartered Accountants of India under the trade name Achutha & Co., at No. <span class="numbers">853</span>, D<sub>2</sub> “Hoysala”, Lokaranjan Mahal Road, Ittigegud, Mysore - <span class="numbers">570010</span>. He is a visiting faculty at various forums to deliver lectures on Budget, Service Tax, VAT, GST, Income Tax, Bank Audit, Personality Development and Leadership Skills.</p>
-			<p>Achutha  is happily married to Late Mrs. M.N. Anitha, she has a Master’s degree in Tourism Management and he is blessed with a son Late  Dayanand Sagar Hoysala & a daughter Gowri A. Hoysala an enthusiast in agriculture, wild life & forestry.</p>
+			<p>Achutha  is happily married to Late Mrs. M.N. Anitha, she has a Master’s degree in Tourism Management and he is blessed with a son Late  Dayanand Sagar Hoysala &amp; a daughter Gowri A. Hoysala who has done her M.Sc. in applied zoology, a great enthusiast in agriculture, wild life &amp; forestry.</p>
 			<p>Achutha played many roles in many Asscoiations, he is good at Studies, Athletics, Sports and many more. For more information click read more</p>
 			<p class="text-right more"><a href="<?=BASE_URL?>About"><i>Read more...</i></a></p>
 		</div>
