@@ -2,8 +2,8 @@
 	<div class="row pt-5 justify-content-center">
 		<div class="col-md-12">
 			<h3 class="mb-5">About<hr /></h3>
-			<p><strong>S.ACHUTHA</strong> is a Chartered Accountant. He is practicing as a fellow member of The Institute of Chartered Accountants of India under the trade name M/s Achutha & Co., at No.<span class="numbers">286</span>, ‘Phalaamrutha’, New layout, Ittigegud, Mysore - <span class="numbers">570010</span>. He is a visiting faculty at various forums to deliver lectures on Budget, Service Tax, VAT, Income Tax, Bank Audit, Personality Development and Leadership Skills.
-			<p>He is a recipient of many Rotaract Awards.  He has won the Rotary Youth Leadership Award (R.Y.L.A.) at Arehalli in <span class="numbers">1988</span>, Mr. UDROC – <span class="numbers">90</span> award for best Personality at the 18thRotract District Conference and Mr.ROTARACT award at Chamundi Zonal Conference held  in January, <span class="numbers">1991</span>.</p>
+			<p><strong>S.ACHUTHA</strong> is a Chartered Accountant. He is practicing as a fellow member of The Institute of Chartered Accountants of India under the trade name M/s Achutha &amp; Co., at No.<span class="numbers">853</span>, D<sub>2</sub> “Hoysala”, Lokaranjan Mahal Road, Ittigegud, Mysore - <span class="numbers">570010</span>. He is a visiting faculty at various forums to deliver lectures on Budget, Service Tax, VAT, GST, Income Tax, Bank Audit, Personality Development and Leadership Skills.
+			<p>He is a recipient of many Rotaract Awards.  He has won the Rotary Youth Leadership Award (R.Y.L.A.) at Arehalli in <span class="numbers">1988</span>, Mr. UDROC – <span class="numbers">90</span> award for best Personality at the 18th Rotract District Conference and Mr. ROTARACT award at Chamundi Zonal Conference held  in January, <span class="numbers">1991</span>.</p>
 			<p>During his tenure as President, the Club had bagged the Best Bulletin Award and the Second Best Club Award at the District Conference SARC – <span class="numbers">91</span> Udupi.</p>
 			<p>Achutha had played many roles in many organisatation, they are listed below</p>
 			<ul>
@@ -49,13 +49,13 @@
 				<li>Member of Professional Development Committee of SIRC of ICAI <span class="numbers">2014</span>-<span class="numbers">15</span>.</li>
 				<li>Member of Zonal Finance Council of Karnataka State Cricket Association (KSCA).</li>
 				<li>District Chairperson Trusts & Permanent Project, Lions Intl. Dist. <span class="numbers">317</span>A <span class="numbers">2014</span>-<span class="numbers">15</span>.</li>
-				<li>Past Secretary of Hoysala Karnataka Sangha Charitable Trust, Mysore.</li>
+				<li>Chairman of Hoysala Karnataka Sangha Charitable Trust, Mysore.</li>
 				<li>State Committee Member of BJP CA Cell.</li>
 				<li>Swayam Sevak of R.S.S.</li>
 			</ul>
 			<p>Between <span class="numbers">2011</span>-<span class="numbers">15</span> he had placed gold at Mysore Dist.Level & Silver and bronze medal at Karnataka State level Swimming Championships many times. He had bagged a bronze medal in distance swimming for continuously swimming  for <span class="numbers">3</span>hrs. covering <span class="numbers">6</span>kms.</p>
 			<p>He is staunch Philanthrope and always rushes to the aid of the poor and needy and his being a blood donor, eye donor and a member of the Polio Plus Immunization Task Force are only a few of the many such laudable gestures he bears. He was selected thrice for the National Award viz. The Bharat Jyoti Award, Rajiv Gandhi Sadbhavna Award & Rajiv Gandhi Shiromani Award Delhi. He is the recepientof  Suvarna Karnataka Hoysala Prashasti <span class="numbers">2007</span>.</p>
-			<p>He is happily married to Mrs. M.N.Anitha, she has a Master’s degree in Tourism Management and he is blessed with a son Late  Dayanand Sagar Hoysala & a daughter Kum. Gowri A. Hoysala an enthusiast in agriculture, wild life & forestry. She is pursuing her education in M. Sc. applied in zoology.</p>
+			<p>He is happily married to Late Mrs. M.N. Anitha, she has a Master’s degree in Tourism Management and he is blessed with a son Late  Dayanand Sagar Hoysala &amp; a daughter Gowri A. Hoysala who has done her M.Sc. in applied zoology, a great enthusiast in agriculture, wild life &amp; forestry. She runs an e-commerce business under the trade name Staticfire. She is happily married to Flt. Lt. Eshwar S. who is serving the country in Indian Air Force.</p>
 		</div>
 	</div>
 </div>
