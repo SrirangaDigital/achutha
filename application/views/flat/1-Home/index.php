@@ -45,18 +45,19 @@
 		<div class="col-md-12 mb-4" id="contact"><h4>Contact</h4><hr /></div>
 		<div class="col-md-5">
 			<h5>Address</h5>
-			#<span class="numbers">286</span>, “Phalaamrutha”, New Layout,<br />
-			Ittigegud, Mysuru<br />
-			Pincode: <span class="numbers">570010</span><br />
-			Mobile: <span class="numbers">9448042966</span><br />
+			#<span class="numbers">853</span>, D<sub>2</sub> “Hoysala”,<br /> 
+			Lokaranjan Mahal Road,<br /> 
+			Ittigegud, Mysore - <span class="numbers">570010</span><br />
 			Landline:<br />
-			<span class="numbers">0821 - 2429664</span> (O) | <span class="numbers">0821 - 2523572</span> (R)<br />
+			<span class="numbers">0821 - 2429664</span><br />
+			Mobile: <span class="numbers">9448042966</span><br />
 			Email:<br />
-			achuthaca@gmail.com | sachutha@dataone.in
+			audit@achuthaca.co.in<br />
+			www.achuthaca.co.in
 		</div>
 		<div class="col-md-7">
 			<h5 class="text-center">Google Map</h5>
-			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d974.5591357557417!2d76.66485382919717!3d12.299850999456195!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTLCsDE3JzU5LjUiTiA3NsKwMzknNTUuNCJF!5e0!3m2!1sen!2sin!4v1560334601821!5m2!1sen!2sin" width="650" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29400.38396603551!2d76.62315124283997!3d12.289268929862532!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3baf701776a48bc5%3A0xcd533a94407342ba!2sachutha%20%26%20ca!5e1!3m2!1sen!2sin!4v1768214407185!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 		</div>
 	</div>
 </div>
